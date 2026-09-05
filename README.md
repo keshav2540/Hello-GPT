@@ -11,7 +11,7 @@ A full-stack conversational AI app — **React (Vite)** frontend + **Express/Mon
 [![Node.js](https://img.shields.io/badge/Backend-Express-339933?style=flat&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-4285F4?style=flat&logo=google&logoColor=white)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
 
 </div>
 
@@ -89,7 +89,6 @@ npm install
 Create a `.env` file inside the `Backend/` folder:
 
 ```env
-PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 GEMINI_API_KEY=your_gemini_api_key
 ```
@@ -142,9 +141,6 @@ gpt/
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/keshav2540/Hello-GPT/issues).
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
